@@ -1,3 +1,5 @@
+# natureremo_getdata.go
+
 natureremoのAPIからjsonデータを取得して、温度(temperature.txt)と湿度(humidity.txt)のみファイルに書き込むプログラムです。
 
 実行しておくと自動で10分ごとにAPIにアクセスして、ファイルに追記していきます。
